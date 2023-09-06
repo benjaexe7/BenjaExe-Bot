@@ -15,7 +15,7 @@
 termux-setup-storage
 ```
 ```bash
-apt update -y && yes | apt upgrade && pkg install -y bash wget && wget -O - https://raw.githubusercontent.com/GataNina-Li/GataBotLite-MD/master/gatalite.sh | bash
+apt update -y && yes | apt upgrade && pkg install -y bash wget && wget -O - https://github.com/benjaexe7/BenjaExe-Bot | bash
 ```
 ### INSTALACIÓN MANUAL - TERMUX
 ```bash
@@ -23,8 +23,8 @@ termux-setup-storage
 apt update
 apt upgrade
 pkg install -y git nodejs ffmpeg imagemagick yarn
-git clone https://github.com/GataNina-Li/GataBotLite-MD 
-cd GataBotLite-MD
+git clone https://github.com/benjaexe7/BenjaExe-Bot
+cd https://github.com/benjaexe7/BenjaExe-Bot
 yarn install
 npm install
 npm start
@@ -59,7 +59,7 @@ pm2 delete all
 ```
 
 ### 💠 [`IDIOMAS DISPONIBLES PARA BENJAEXE-BOT`]
-#### ✨ Español  [`Editar Idioma`](https://github.com/GataNina-Li/GataBotLite-MD/blob/master/lib/idiomas/espanol.js)
+#### ✨ Español  [`Editar Idioma`](https://github.com/benjaexe7/BenjaExe-Bot)
 ----
 
 ### CREADOR
